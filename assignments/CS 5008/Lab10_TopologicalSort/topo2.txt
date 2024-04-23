@@ -1,0 +1,12 @@
+eat sleep
+eat exercise
+cook eat
+cook clean
+eat work
+work meetings
+sleep bathe
+work play
+meetings play
+work shop
+play bathe
+work bathe
